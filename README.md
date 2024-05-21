@@ -1,4 +1,4 @@
-# Subscribe Chrome Extension
+# Subscribr - Google Chrome Extension
 
 This simple extension adds a [Subscribr](https://subscribr.ai/) icon to YouTube video pages.
 
