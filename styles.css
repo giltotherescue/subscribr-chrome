@@ -1,0 +1,11 @@
+#subscribr-link {
+  text-decoration: none;
+}
+
+#subscribr-link img {
+  border-radius: 18px;
+}
+
+#subscribr-link:hover img {
+  box-shadow: 0 0 3px #eee;
+}
